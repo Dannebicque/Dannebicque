@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Teacher at the university of Reims CHampagne-Ardenne (web programming, ergonomics, accessibility), researcher in automation and decision support (e-health, collaborative work), I am above all passionately developer since the age of 10. I practice basic, Pascal, Visual Basic, .Net (C#), PHP, JS, HTML/CSS. Fan of the Symfony framework, and author of many tools within the framework of my university (intranet for the management of student education, serious games, ...), and program around automatism and decision support.
+Teacher at the university of Reims Champagne-Ardenne (web programming, ergonomics, accessibility), researcher in automation and decision support (e-health, collaborative work), I am above all passionately developer since the age of 10. I practice basic, Pascal, Visual Basic, .Net (C#), PHP, JS, HTML/CSS. Fan of the Symfony framework, and author of many tools within this framework for my university (intranet for the management of student education, serious games, ...), and program around automatism and decision support.
 
 - 🔭 I’m currently working on 
   - Intranet V3 : https://github.com/Dannebicque/intranetV3
