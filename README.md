@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dannebicque&label=Profile%20views&color=0e75b6&style=flat" alt="dannebicque" /> 
-<a href="https://twitter.com/dannebicque" target="blank"><img src="https://img.shields.io/twitter/follow/dannebicque?logo=twitter&style=for-the-badge" alt="dannebicque" /></a>
+<a href="https://twitter.com/dannebicque" target="blank"><img src="https://img.shields.io/twitter/follow/davidannebicque?logo=twitter&style=for-the-badge" alt="davidannebicque" /></a>
 </p>
 
 
