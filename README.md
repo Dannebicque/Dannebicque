@@ -1,19 +1,157 @@
-### Hi there 👋
+<!-- Banner -->
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=dannebicque&label=Profile%20views&color=0e75b6&style=flat" alt="dannebicque" /> 
-<a href="https://twitter.com/dannebicque" target="blank"><img src="https://img.shields.io/twitter/follow/davidannebicque?logo=twitter&style=for-the-badge" alt="davidannebicque" /></a>
+<p align="center">
+  <img src="banner.png" alt="David Annebicque Banner" width="100%">
 </p>
 
+# Hi 👋 I'm David Annebicque
 
-Teacher at the university of Reims Champagne-Ardenne (web programming, ergonomics, accessibility), researcher in automation and decision support (e-health, collaborative work), I am above all passionately developer since the age of 10. I practice basic, Pascal, Visual Basic, .Net (C#), PHP, JS, HTML/CSS. Fan of the Symfony framework, and author of many tools within this framework for my university (intranet for the management of student education, serious games, ...), and program around automatism and decision support.
+### Symfony Architect • University Lecturer • Open Source Developer • AI for Education
 
-- 🔭 I’m currently working on 
-  - Intranet V3 : https://github.com/Dannebicque/intranetV3
-  - WWC : A serious game for manage "web agency" : https://github.com/Dannebicque/wwc
-  - A big national project to manage redaction of the new program of Bachelor Universitaire de Technologie (B.U.T.) : https://github.com/Dannebicque/redigetonbut
-  - A new projet to manage "student project" in the contexte of DUT reform (becoming a BUT), with more project, and new pedagic approach
+I'm a software engineer, university lecturer and open-source enthusiast from France.
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://codeigniter.com" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/codeigniter.svg" alt="codeigniter" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://nuxtjs.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/nuxtjs/nuxtjs-icon.svg" alt="nuxtjs" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://symfony.com" target="_blank"> <img src="https://symfony.com/logos/symfony_black_03.svg" alt="symfony" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> <a href="https://vuetifyjs.com/en/" target="_blank"> <img src="https://bestofjs.org/logos/vuetify.svg" alt="vuetify" width="40" height="40"/> </a> <a href="https://webpack.js.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" alt="webpack" width="40" height="40"/> </a> </p>
+I've been building software since I was **10 years old**, and today I design modern educational platforms and enterprise applications with **Symfony**, **API Platform**, **Vue.js** and **Docker**.
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=dannebicque&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
+I enjoy creating modular architectures, reusable software and developer-friendly tools that have a real impact on education.
+
+---
+
+## 🚀 What I'm currently building
+
+### 🎓 Progressia.app *(coming soon)*
+
+A next-generation learning platform powered by AI.
+
+* 🤖 AI-assisted feedback
+* 🎮 Gamification
+* 📈 Learning analytics
+* 🎓 Student progress tracking
+* 📚 Modern teaching workflows
+
+### 🏛 ORéOF
+
+A large Symfony platform dedicated to managing university curricula and educational programs.
+
+### 🧩 Modular Symfony Ecosystem
+
+Building reusable Symfony Bundles, API Platform resources and Vue packages for scalable applications.
+
+### 🤖 AI for Education
+
+Exploring how Generative AI can improve teaching, learning and software development.
+
+---
+
+## ❤️ Featured Projects
+
+| Project               | Description                                  |
+| --------------------- | -------------------------------------------- |
+| 🚀 **Progressia.app** | AI-powered learning platform *(coming soon)* |
+| 🏛 **ORéOF**          | University curriculum management platform    |
+| 🧩 **Intranet V3**    | Modular Symfony intranet                     |
+| 🎮 **WWC**            | Serious game for managing a web agency       |
+
+---
+
+## 💻 Tech Stack
+
+<p align="center">
+
+[![My Skills](https://skillicons.dev/icons?i=php,symfony,vue,nuxt,ts,js,tailwind,docker,linux,git,github,postgres,mysql,nginx,py)](https://skillicons.dev)
+
+</p>
+
+---
+
+## 🎓 Teaching
+
+I teach modern web technologies at the **University of Reims Champagne-Ardenne**.
+
+My courses include:
+
+* Symfony
+* API Platform
+* Vue.js & Nuxt
+* Software Architecture
+* PHP
+* Docker
+* UX & Accessibility
+* AI-assisted software development
+
+---
+
+## 🧠 Areas of Interest
+
+* Educational Technology (EdTech)
+* Artificial Intelligence
+* Symfony Architecture
+* API Design
+* Modular Applications
+* Accessibility
+* Developer Experience
+* Decision Support Systems
+
+---
+
+## ❤️ Open Source
+
+I enjoy building open-source tools that simplify teaching and university management.
+
+Several of my applications are used daily by teachers, students and administrative staff in French higher education.
+
+Always happy to contribute, discuss architecture or exchange ideas around Symfony.
+
+---
+
+## 📈 GitHub Statistics
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Dannebicque&show_icons=true&count_private=true&include_all_commits=true&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dannebicque&layout=compact&hide_border=true"/>
+
+</p>
+
+---
+
+## 🎤 Talks & Interests
+
+I regularly speak about topics such as:
+
+* 🤖 AI in Higher Education
+* ⚙️ Symfony Best Practices
+* 🏗 Software Architecture
+* 🎓 Teaching Modern Web Development
+
+---
+
+## ⚡ Fun Facts
+
+* 💻 Programming since the age of **10**
+* 🎓 Passionate about helping students become better developers
+* 🧩 Addicted to modular software architecture
+* 🤖 Convinced AI should empower teachers, not replace them
+* 🚂 LEGO builder and maker in my spare time
+
+---
+
+## 🤝 Let's Connect
+
+<p align="left">
+
+<a href="https://github.com/Dannebicque">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+</a>
+
+<a href="https://www.linkedin.com/in/davidannebicque/">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="https://twitter.com/dannebicque" target="blank"><img src="https://img.shields.io/twitter/follow/davidannebicque?logo=twitter&style=for-the-badge" alt="davidannebicque" /></a>
+
+</p>
+
+---
+
+> *"Building software that helps people learn better."*
