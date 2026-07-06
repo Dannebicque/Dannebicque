@@ -105,13 +105,11 @@ Always happy to contribute, discuss architecture or exchange ideas around Symfon
 
 ## 📈 GitHub Statistics
 
-<p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Dannebicque&show_icons=true&count_private=true&include_all_commits=true&hide_border=true"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dannebicque&layout=compact&hide_border=true"/>
+<p align="center"> <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Dannebicque&theme=github_dark" alt="David's GitHub activity graph" /> </p>
 
-</p>
+<p align="center"> <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Dannebicque&theme=github_dark" alt="Most used languages by repository" /> <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Dannebicque&theme=github_dark" alt="Most used languages by commit" /> </p>
 
 ---
 
